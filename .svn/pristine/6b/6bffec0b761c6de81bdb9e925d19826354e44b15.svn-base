@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\arduino-1.0\hardware\tools\avr\bin\avrdude.exe" -C "C:\Program Files (x86)\arduino-1.0\hardware\tools\avr\etc\avrdude.conf" -patmega328p -P%1 -carduino -b115200 -Uflash:w:%2
